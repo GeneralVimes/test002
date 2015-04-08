@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: f94fa490023ad3040aaf7c1b4c721661
+timeCreated: 1428313050
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: airbus_a321:DSMesh_0_0
+    100004: airbus_a321:DSMesh_10_2
+    100006: airbus_a321:DSMesh_1_0
+    100008: airbus_a321:DSMesh_2_0
+    100010: airbus_a321:DSMesh_3_1
+    100012: airbus_a321:DSMesh_4_1
+    100014: airbus_a321:DSMesh_5_1
+    100016: airbus_a321:DSMesh_6_2
+    100018: airbus_a321:DSMesh_7_2
+    100020: airbus_a321:DSMesh_8_2
+    100022: airbus_a321:DSMesh_9_2
+    400000: //RootNode
+    400002: airbus_a321:DSMesh_0_0
+    400004: airbus_a321:DSMesh_10_2
+    400006: airbus_a321:DSMesh_1_0
+    400008: airbus_a321:DSMesh_2_0
+    400010: airbus_a321:DSMesh_3_1
+    400012: airbus_a321:DSMesh_4_1
+    400014: airbus_a321:DSMesh_5_1
+    400016: airbus_a321:DSMesh_6_2
+    400018: airbus_a321:DSMesh_7_2
+    400020: airbus_a321:DSMesh_8_2
+    400022: airbus_a321:DSMesh_9_2
+    2300000: airbus_a321:DSMesh_0_0
+    2300002: airbus_a321:DSMesh_10_2
+    2300004: airbus_a321:DSMesh_1_0
+    2300006: airbus_a321:DSMesh_2_0
+    2300008: airbus_a321:DSMesh_3_1
+    2300010: airbus_a321:DSMesh_4_1
+    2300012: airbus_a321:DSMesh_5_1
+    2300014: airbus_a321:DSMesh_6_2
+    2300016: airbus_a321:DSMesh_7_2
+    2300018: airbus_a321:DSMesh_8_2
+    2300020: airbus_a321:DSMesh_9_2
+    3300000: airbus_a321:DSMesh_0_0
+    3300002: airbus_a321:DSMesh_10_2
+    3300004: airbus_a321:DSMesh_1_0
+    3300006: airbus_a321:DSMesh_2_0
+    3300008: airbus_a321:DSMesh_3_1
+    3300010: airbus_a321:DSMesh_4_1
+    3300012: airbus_a321:DSMesh_5_1
+    3300014: airbus_a321:DSMesh_6_2
+    3300016: airbus_a321:DSMesh_7_2
+    3300018: airbus_a321:DSMesh_8_2
+    3300020: airbus_a321:DSMesh_9_2
+    4300000: airbus_a321:DSMesh_0_0
+    4300002: airbus_a321:DSMesh_1_0
+    4300004: airbus_a321:DSMesh_2_0
+    4300006: airbus_a321:DSMesh_3_1
+    4300008: airbus_a321:DSMesh_4_1
+    4300010: airbus_a321:DSMesh_5_1
+    4300012: airbus_a321:DSMesh_6_2
+    4300014: airbus_a321:DSMesh_7_2
+    4300016: airbus_a321:DSMesh_8_2
+    4300018: airbus_a321:DSMesh_9_2
+    4300020: airbus_a321:DSMesh_10_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
