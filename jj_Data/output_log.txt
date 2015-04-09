@@ -1,0 +1,18 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7340 Graphics (ID=0x9808)
+    Vendor:   ATI
+    VRAM:     371 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\tmp\3\New Unity Project 1\jj_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\tmp\3\New Unity Project 1\jj_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\tmp\3\New Unity Project 1\jj_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\tmp\3\New Unity Project 1\jj_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\tmp\3\New Unity Project 1\jj_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\tmp\3\New Unity Project 1\jj_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.365 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
