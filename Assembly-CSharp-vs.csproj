@@ -5,11 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{7B1980F6-1783-EBCF-2348-B9BA13281FE1}</ProjectGuid>
+	<ProjectGuid>{3BBD6927-C3E7-D103-3212-BC039E105DBB}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
-	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
 	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
 	<FileAlignment>512</FileAlignment>
 	<BaseDirectory>Assets</BaseDirectory>
@@ -46,9 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CamRotateScript.js" />
-     <Compile Include="Assets\OverMindScript.js" />
-     <Compile Include="Assets\PlaneTrajectoryScript.js" />
+     <Compile Include="Assets\Cam2.cs" />
+     <Compile Include="Assets\CanAndroidRotate.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Tools/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
