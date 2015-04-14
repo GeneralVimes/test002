@@ -10,18 +10,19 @@ function Start () {
 function Update () {
 	//Debug.Log('Update');
 	
-	if(Input.GetKey('m')){
-		if (currentFow>fowMin){
-			currentFow-=fowSpeed;
-		}
-	}
-	else{
-		if (currentFow<fowMax){
-			currentFow+=fowSpeed;
-		}
-	}
+	//if(Input.GetKey('m')){
+		//if (currentFow>fowMin){
+			//currentFow-=fowSpeed;
+		//}
+	//}
+	//else{
+		//if (currentFow<fowMax){
+			//currentFow+=fowSpeed;
+		//}
+	//}
 	
-	GetComponent.<Camera>().fieldOfView = currentFow;
+	//GetComponent.<Camera>().fieldOfView = currentFow;
+	
 	//this.transform.
 	//this.transform.position.x+=(Input.GetAxis("Horizontal"));
 	//this.transform.Rotate(Vector3.up, Time.deltaTime);
